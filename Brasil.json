@@ -1,5 +1,5 @@
 {
-    "Nombre":"Selección_de_fútbol_de_Brasil",
+    "Nombre":"Selección de fútbol de Brasil",
     "Pais":"Brasil",
     "Nombres_Alternativos":"Verdeamarela",
     "Colores":[
@@ -15,28 +15,28 @@
     ],
     "Titulos_ganados":[
         {
-            "Nombre":"Copa_América",
+            "Nombre":"Copa América",
             "Año":1919
         },
         {
-            "Nombre":"Copa_Mundial",
+            "Nombre":"Copa Mundial",
             "Año":1962
         },
         {
-            "Nombre":"Copa_Confederaciones",
+            "Nombre":"Copa Confederaciones",
             "Año":1997
         },
         {
-            "Nombre":"Copa_Mundial",
+            "Nombre":"Copa Mundial",
             "Año":2002
         },
         {
-            "Nombre":"Copa_América",
+            "Nombre":"Copa América",
             "Año":2019
         }
     ],
     "Capitan":"Neymar",
-    "Tecnico":"Tite/Adenor_Leonardo_Bacchi",
+    "Tecnico":"Tite/Adenor Leonardo Bacchi",
     "Logo":"http://as00.epimg.net/img/comunes/fotos/fichas/equipos/large/1881.png",
     "Abreviacion":"CBF",
     "Goleador":{
@@ -46,36 +46,36 @@
     "Estadio":[
         {
             "Nombre":"Maracaná",
-            "Nickname":"Estadio_Jornalista_Mário_Filho",
-            "Ubicacion":"Río_de_Janeiro",
+            "Nickname":"Estadio Jornalista Mário Filho",
+            "Ubicacion":"Río de Janeiro",
             "Capacidad":84738
         },
         {
-            "Nombre":"Mané_Garrincha",
-            "Nickname":"Estadio_Nacional_Mané_Garrincha",
+            "Nombre":"Mané Garrincha",
+            "Nickname":"Estadio Nacional Mané Garrincha",
             "Ubicacion":"Brasilia",
             "Capacidad":72800
         }
     ],
-    "Equipo":[
+    "Jugadores":[
         {
             "Nombre":"Alisson",
             "Apellido":"Ramses",
             "Edad":29,
             "Altura":1.91,
-            "Lugar_nacimiento":"Novo_Hamburgo",
+            "Lugar_nacimiento":"Novo Hamburgo",
             "Posición":"Portero",
-            "Club":"Liverpool_FC",
+            "Club":"Liverpool FC",
             "Numero_camisa":1
         },
         {
             "Nombre":"Neymar",
-            "Apellido":"Santos_Júnior",
+            "Apellido":"Santos Júnior",
             "Edad":30,
             "Altura":1.75,
-            "Lugar_nacimiento":"Mogi_das_Cruzes",
+            "Lugar_nacimiento":"Mogi das Cruzes",
             "Posición":"Delantero",
-            "Club":"París_Saint_Germain_FC",
+            "Club":"París Saint Germain FC",
             "Numero_camisa":10
         },
         {
@@ -85,7 +85,7 @@
             "Altura":1.81,
             "Lugar_nacimiento":"Maceió",
             "Posición":"Delantero",
-            "Club":"Liverpool_FC",
+            "Club":"Liverpool FC",
             "Numero_camisa":20
         },
         {
@@ -93,9 +93,9 @@
             "Apellido":"Rodrigues",
             "Edad":29,
             "Altura":1.69,
-            "Lugar_nacimiento":"Belo_Horizonte",
-            "Posición":"Medio_Campo",
-            "Club":"Manchester_United",
+            "Lugar_nacimiento":"Belo Horizonte",
+            "Posición":"Medio Campo",
+            "Club":"Manchester United",
             "Numero_camisa":8
         },
         {
@@ -103,9 +103,9 @@
             "Apellido":"Aoás",
             "Edad":28,
             "Altura":1.83,
-            "Lugar_nacimiento":"Sao_Paulo",
+            "Lugar_nacimiento":"Sao Paulo",
             "Posición":"Defensa",
-            "Club":"París_Saint_Germain_FC",
+            "Club":"París Saint Germain FC",
             "Numero_camisa":4
         },
         {
@@ -113,9 +113,9 @@
             "Apellido":"Silva",
             "Edad":37,
             "Altura":1.81,
-            "Lugar_nacimiento":"Río_de_Janeiro",
+            "Lugar_nacimiento":"Río de Janeiro",
             "Posición":"Defensa",
-            "Club":"Chelsea_FC",
+            "Club":"Chelsea FC",
             "Numero_camisa":3
         },
         {
@@ -125,7 +125,7 @@
             "Altura":1.84,
             "Lugar_nacimiento":"Bicas",
             "Posición":"Defensa",
-            "Club":"Juventus_de_Trurín",
+            "Club":"Juventus de Trurín",
             "Numero_camisa":2
         },
         {
@@ -133,9 +133,9 @@
             "Apellido":"Coelho",
             "Edad":25,
             "Altura":1.80,
-            "Lugar_nacimiento":"Río_de_Janeiro",
-            "Posición":"Medio_Campo",
-            "Club":"West_Ham_United",
+            "Lugar_nacimiento":"Río de Janeiro",
+            "Posición":"Medio Campo",
+            "Club":"West Ham United",
             "Numero_camisa":7
         },
         {
@@ -143,9 +143,9 @@
             "Apellido":"Andrade",
             "Edad":25,
             "Altura":1.84,
-            "Lugar_nacimiento":"Nova_Venécia",
+            "Lugar_nacimiento":"Nova Venécia",
             "Posición":"Delantero",
-            "Club":"Tottenham_Hotspur",
+            "Club":"Tottenham Hotspur",
             "Numero_camisa":9
         },
         {
@@ -153,9 +153,9 @@
             "Apellido":"Oliveira",
             "Edad":22,
             "Altura":1.76,
-            "Lugar_nacimiento":"Sao_Goncalo",
+            "Lugar_nacimiento":"Sao Goncalo",
             "Posición":"Delantero",
-            "Club":"Real_Madrid_CF",
+            "Club":"Real Madrid CF",
             "Numero_camisa":20
         },
         {
@@ -164,8 +164,8 @@
             "Edad":28,
             "Altura":1.88,
             "Lugar_nacimiento":"Campinas",
-            "Posición":"Medio_Campo",
-            "Club":"Liverpool_FC",
+            "Posición":"Medio Campo",
+            "Club":"Liverpool FC",
             "Numero_camisa":15
         }
     ]
